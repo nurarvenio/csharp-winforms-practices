@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\02-textbox-button-basic\bin\Debug\02-textbox-button-basic.exe.config
+C:\Users\esma\Desktop\02-textbox-button-basic\bin\Debug\02-textbox-button-basic.exe
+C:\Users\esma\Desktop\02-textbox-button-basic\bin\Debug\02-textbox-button-basic.pdb
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\02-textbox-button-basic.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\_02_textbox_button_basic.Form1.resources
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\_02_textbox_button_basic.Properties.Resources.resources
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\02-textbox-button-basic.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\02-textbox-button-basic.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\02-textbox-button-basic.exe
+C:\Users\esma\Desktop\02-textbox-button-basic\obj\Debug\02-textbox-button-basic.pdb

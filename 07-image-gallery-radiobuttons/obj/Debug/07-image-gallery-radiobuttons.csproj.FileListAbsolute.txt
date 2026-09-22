@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\bin\Debug\07-image-gallery-radiobuttons.exe.config
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\bin\Debug\07-image-gallery-radiobuttons.exe
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\bin\Debug\07-image-gallery-radiobuttons.pdb
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\07-image-gallery-radiobuttons.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\_07_image_gallery_radiobuttons.Form1.resources
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\_07_image_gallery_radiobuttons.Properties.Resources.resources
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\07-image-gallery-radiobuttons.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\07-image-gallery-radiobuttons.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\07-image-gallery-radiobuttons.exe
+C:\Users\esma\Desktop\07-image-gallery-radiobuttons\obj\Debug\07-image-gallery-radiobuttons.pdb

@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\03-keypad-demo.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\_03_keypad_demo.Properties.Resources.resources
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\03-keypad-demo.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\03-keypad-demo.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\03-keypad-demo\bin\Debug\03-keypad-demo.exe.config
+C:\Users\esma\Desktop\03-keypad-demo\bin\Debug\03-keypad-demo.exe
+C:\Users\esma\Desktop\03-keypad-demo\bin\Debug\03-keypad-demo.pdb
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\03-keypad-demo.exe
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\03-keypad-demo.pdb
+C:\Users\esma\Desktop\03-keypad-demo\obj\Debug\_03_keypad_demo.Keypad.resources

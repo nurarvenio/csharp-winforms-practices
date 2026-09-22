@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esma\\Desktop\\07-image-gallery-radiobuttons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A2CB5D-1C19-4099-BA10-3C14DCEE9720}|07-image-gallery-radiobuttons.csproj|c:\\users\\esma\\desktop\\07-image-gallery-radiobuttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01A2CB5D-1C19-4099-BA10-3C14DCEE9720}|07-image-gallery-radiobuttons.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A2CB5D-1C19-4099-BA10-3C14DCEE9720}|07-image-gallery-radiobuttons.csproj|c:\\users\\esma\\desktop\\07-image-gallery-radiobuttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A2CB5D-1C19-4099-BA10-3C14DCEE9720}|07-image-gallery-radiobuttons.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\esma\\Desktop\\07-image-gallery-radiobuttons\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\esma\\Desktop\\07-image-gallery-radiobuttons\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:48:27.542Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\esma\\Desktop\\07-image-gallery-radiobuttons\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\esma\\Desktop\\07-image-gallery-radiobuttons\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:58:09.969Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

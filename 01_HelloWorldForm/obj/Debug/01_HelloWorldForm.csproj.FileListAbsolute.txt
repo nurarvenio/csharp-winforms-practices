@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\01_HelloWorldForm\bin\Debug\01_HelloWorldForm.exe.config
+C:\Users\esma\Desktop\01_HelloWorldForm\bin\Debug\01_HelloWorldForm.exe
+C:\Users\esma\Desktop\01_HelloWorldForm\bin\Debug\01_HelloWorldForm.pdb
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\01_HelloWorldForm.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\_01_HelloWorldForm.Form1.resources
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\_01_HelloWorldForm.Properties.Resources.resources
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\01_HelloWorldForm.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\01_HelloWorldForm.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\01_HelloWorldForm.exe
+C:\Users\esma\Desktop\01_HelloWorldForm\obj\Debug\01_HelloWorldForm.pdb

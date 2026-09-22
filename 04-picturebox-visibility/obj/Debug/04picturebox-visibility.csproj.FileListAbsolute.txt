@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\04picturebox-visibility\bin\Debug\04picturebox-visibility.exe.config
+C:\Users\esma\Desktop\04picturebox-visibility\bin\Debug\04picturebox-visibility.exe
+C:\Users\esma\Desktop\04picturebox-visibility\bin\Debug\04picturebox-visibility.pdb
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\04picturebox-visibility.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\_04picturebox_visibility.Form1.resources
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\_04picturebox_visibility.Properties.Resources.resources
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\04picturebox-visibility.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\04picturebox-visibility.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\04picturebox-visibility.exe
+C:\Users\esma\Desktop\04picturebox-visibility\obj\Debug\04picturebox-visibility.pdb

@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\05-shopping-cart-listbox\bin\Debug\05-shopping-cart-listbox.exe.config
+C:\Users\esma\Desktop\05-shopping-cart-listbox\bin\Debug\05-shopping-cart-listbox.exe
+C:\Users\esma\Desktop\05-shopping-cart-listbox\bin\Debug\05-shopping-cart-listbox.pdb
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\05-shopping-cart-listbox.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\_05_shopping_cart_listbox.Form1.resources
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\_05_shopping_cart_listbox.Properties.Resources.resources
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\05-shopping-cart-listbox.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\05-shopping-cart-listbox.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\05-shopping-cart-listbox.exe
+C:\Users\esma\Desktop\05-shopping-cart-listbox\obj\Debug\05-shopping-cart-listbox.pdb

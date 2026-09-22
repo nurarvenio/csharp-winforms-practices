@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\06-form-background-color-changer.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\_06_form_background_color_changer.Form1.resources
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\_06_form_background_color_changer.Properties.Resources.resources
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\06-form-background-color-changer.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\06-form-background-color-changer.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\06-form-background-color-changer\bin\Debug\06-form-background-color-changer.exe.config
+C:\Users\esma\Desktop\06-form-background-color-changer\bin\Debug\06-form-background-color-changer.exe
+C:\Users\esma\Desktop\06-form-background-color-changer\bin\Debug\06-form-background-color-changer.pdb
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\06-form-background-color-changer.exe
+C:\Users\esma\Desktop\06-form-background-color-changer\obj\Debug\06-form-background-color-changer.pdb
