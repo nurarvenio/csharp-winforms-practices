@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\gpa_calculatorr\bin\Debug\gpa_calculatorr.exe.config
+C:\Users\esma\Desktop\gpa_calculatorr\bin\Debug\gpa_calculatorr.exe
+C:\Users\esma\Desktop\gpa_calculatorr\bin\Debug\gpa_calculatorr.pdb
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.Form1.resources
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.Properties.Resources.resources
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.exe
+C:\Users\esma\Desktop\gpa_calculatorr\obj\Debug\gpa_calculatorr.pdb
