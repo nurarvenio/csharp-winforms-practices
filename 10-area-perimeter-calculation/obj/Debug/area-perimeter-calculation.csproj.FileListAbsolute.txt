@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\area-perimeter-calculation\bin\Debug\area-perimeter-calculation.exe.config
+C:\Users\esma\Desktop\area-perimeter-calculation\bin\Debug\area-perimeter-calculation.exe
+C:\Users\esma\Desktop\area-perimeter-calculation\bin\Debug\area-perimeter-calculation.pdb
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area-perimeter-calculation.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area_perimeter_calculation.Form1.resources
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area_perimeter_calculation.Properties.Resources.resources
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area-perimeter-calculation.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area-perimeter-calculation.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area-perimeter-calculation.exe
+C:\Users\esma\Desktop\area-perimeter-calculation\obj\Debug\area-perimeter-calculation.pdb
