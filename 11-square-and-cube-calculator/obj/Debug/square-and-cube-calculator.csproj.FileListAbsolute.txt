@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\square-and-cube-calculator\bin\Debug\square-and-cube-calculator.exe.config
+C:\Users\esma\Desktop\square-and-cube-calculator\bin\Debug\square-and-cube-calculator.exe
+C:\Users\esma\Desktop\square-and-cube-calculator\bin\Debug\square-and-cube-calculator.pdb
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square-and-cube-calculator.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square_and_cube_calculator.Form1.resources
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square_and_cube_calculator.Properties.Resources.resources
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square-and-cube-calculator.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square-and-cube-calculator.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square-and-cube-calculator.exe
+C:\Users\esma\Desktop\square-and-cube-calculator\obj\Debug\square-and-cube-calculator.pdb
